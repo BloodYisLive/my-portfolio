@@ -5,19 +5,19 @@ import google_drive from "../Projects_photos/google_drive.png";
 const FirstProject = {
   img: google_drive,
   title: "Google Drive UI clone made using ReactJs and Styled Components",
-  codeLink: "https://google.com",
-  projectLink: "#",
+  codeLink: "https://github.com/BloodYisLive/google-drive-UI",
+  projectLink: "https://google-drive-ui-by-jash.netlify.app/",
 };
 const SecondProject = {
   img: amazon_clone,
   title: "Amazon store clone made using ReactJs and Firebase",
-  codeLink: "https://google.com",
-  projectLink: "#",
+  codeLink: "https://github.com/BloodYisLive/Amazon-clone/tree/master",
+  projectLink: "https://amazon-clone-byjash.netlify.app/",
 };
 const ThirdProject = {
   img: google_drive,
   title: "Google Drive UI clone",
-  codeLink: "https://google.com",
+  codeLink: "https://github.com/BloodYisLive",
   projectLink: "#",
 };
 
